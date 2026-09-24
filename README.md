@@ -9,5 +9,5 @@ class will explain the major concerns involved in compiling rich high-level lang
 object-level languages, including syntactic analysis (parsing), translation (e.g., instruction
 selection), and semantic analysis. The class will involve building compilers (to x86-64) for
 increasingly-complex languages, culminating in a final project; advanced topics (e.g., MLIR
-and declarative program analysis) will be discussed as time permits.\ 
+and declarative program analysis) will be discussed as time permits. \ 
 
